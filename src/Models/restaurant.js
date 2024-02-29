@@ -27,7 +27,7 @@ restaurant.init({
         type:DataTypes.STRING,
         allowNull:false
     },
-    cityID:{
+    cityId:{
         type:DataTypes.STRING,
         allowNull:false
     }
